@@ -42,7 +42,7 @@
     "lib",
     "messages"
   ],
-  "repository": "eslint/eslint",
+  "repository": "shreyasch/eslint",
   "funding": "https://opencollective.com/eslint",
   "homepage": "https://eslint.org",
   "bugs": "https://github.com/eslint/eslint/issues/",
@@ -78,7 +78,7 @@
     "natural-compare": "^1.4.0",
     "optionator": "^0.9.1",
     "regexpp": "^3.2.0",
-    "strip-ansi": "^6.0.1",
+    "strip-ansi": "^7.0.1",
     "strip-json-comments": "^3.1.0",
     "text-table": "^0.2.0",
     "v8-compile-cache": "^2.0.3"
